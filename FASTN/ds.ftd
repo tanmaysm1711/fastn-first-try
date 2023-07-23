@@ -17,7 +17,7 @@ optional string document-description:
 optional ftd.raw-image-src document-image:
 optional string site-name: 
 optional ftd.image-src site-logo: $site-logo
-boolean github-icon: false
+boolean github-icon: true
 optional string github-url: 
 boolean full-width: false
 ftd.type-data typography: $typo.types
